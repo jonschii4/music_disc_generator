@@ -21,6 +21,7 @@ Minecraft Music Disc Generator
 ​Preview your disc and hit Generate to export your ready-to-use resource and data pack!
 ​👤 Author & Credits
 ​Created by Jonschii4
+That was so much efford so when you want you can support me on YouTube:
 ​YouTube Channel: @jonaskab000
 ​📜 License
 ​This project is open-source. Feel free to use, modify, and distribute it for your own Minecraft projects!
