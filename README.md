@@ -1,7 +1,9 @@
 # music_disc_generator
 A Minecraft utility to add new Music discs to your game
 Minecraft Music Disc Generator
-​A powerful and user-friendly Minecraft utility designed to create custom music disc resource and data packs effortlessly. Ranging from version 1.21.1 up to the newest 26.3, this tool automates the entire generation process so you can get your custom tracks ingame in no time!
+​A powerful and user-friendly Minecraft utility designed to create custom music disc resource and data packs effortlessly. Ranging from version 1.21.1 up to the newest 26.4, this tool automates the entire generation process so you can get your custom tracks ingame in no time!
+#Note:
+the gui does not provide a 26.4 dropdown menu yet but the 26.3 (latest) in the dropfoen menu also works on 26.4
 ​✨ Features
 ​Wide Version Support: Generates packs compatible with Minecraft versions 1.21.1 all the way up to 26.3.
 ​Drag & Drop Support: Simply drag and drop your audio files directly into the utility for quick processing.
